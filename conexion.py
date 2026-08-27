@@ -1,5 +1,5 @@
 import sqlite3
-
+#mateo
 # Nombre de la base de datos
 DB_NAME = "farmacia.db"
 
@@ -29,7 +29,7 @@ def crear_tabla():
     conexion.close()
 
 
-# ---------- ALTA ----------
+# ---------- ALTgiA ----------
 def alta_remedio(nombre, laboratorio, precio, stock, vencimiento):
     conexion = conectar()
     cursor = conexion.cursor()
