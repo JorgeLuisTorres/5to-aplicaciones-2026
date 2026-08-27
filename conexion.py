@@ -95,4 +95,4 @@ if __name__ == "__main__":
 
     print("Remedios cargados:")
     for r in listar_remedios():
-        print(dict(r))
+        print(dict(r)) 
