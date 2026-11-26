@@ -1,1 +1,0 @@
-# 5to-aplicaciones-2026
